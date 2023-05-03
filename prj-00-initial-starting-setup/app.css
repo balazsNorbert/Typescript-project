@@ -91,6 +91,7 @@ button:active {
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.26);
   padding: 1rem;
   margin: 1rem;
+  background: white;
 }
 
 .projects li h2 {
@@ -99,7 +100,7 @@ button:active {
 }
 
 #finished-projects li h2 {
-  color: #0044ff;
+  color: #0037ce;
 }
 
 .projects li h3 {
