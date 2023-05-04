@@ -16,7 +16,9 @@
       "@typescript-eslint/no-redeclare":["error"],
       "@typescript-eslint/no-use-before-define":["error"],
       "@typescript-eslint/consistent-type-definitions": ["warn", "type"] ,
-      "@typescript-eslint/no-console":0
+      "@typescript-eslint/no-console":0,
+      "@typescript-eslint/no-namespace":0,
+      "@typescript-eslint/no-inner-declarations":0
     },
   
     "env": {
